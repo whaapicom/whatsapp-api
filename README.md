@@ -1,5 +1,5 @@
 # [Whatsapp API](https://wha-api.com/)
- Whatsapp API, It does not require verification, you can use it by paying.
+  Whatsapp API, It provides easy message receiving and sending. It is always up to date. 
  For 3 days of free use, please [click here](https://wha-api.com/).
  
  

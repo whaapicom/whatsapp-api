@@ -3,7 +3,7 @@
  For 3 days of free use, please [click here](https://wha-api.com/).
  
  
- ### First get the file library.
+ ### First include the library.
  ```php
 include 'wha-api.class.php';
 ```
